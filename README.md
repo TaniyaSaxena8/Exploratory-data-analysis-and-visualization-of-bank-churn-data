@@ -32,7 +32,7 @@ Design informative and insightful dashboards and visualizations to communicate c
 ---
 The dataset was taken from Kaggle. There are a total of 10,000 customer data from Germany, Spain, and France. 
 
-Dataset Link: 
+Dataset Link: https://www.kaggle.com/datasets/mathchi/churn-for-bank-customers
 
 The dataset was cleaned and transformed using power query in PowerBI.
 
