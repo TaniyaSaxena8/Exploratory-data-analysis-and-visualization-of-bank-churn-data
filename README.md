@@ -81,7 +81,19 @@ DatasetThe dataset was cleaned and transformed using power query in PowerBI.
  ![image](https://github.com/TaniyaSaxena8/Data-Analysis-of-Bank-Churn-Data/assets/135128191/11c07e05-be4a-4b43-aff7-ade6ea7237fd)
 
 
+  **KEY INSIGHTS:** 
+  
+1.	Out of 3 countries, Germany has the highest churn rate (32.4%).
    
+2.	The overall churn rate is 20.4%. The churn rate for males is 16.5% and for females is 25.1% which indicates that females are more likely to churn than males.
+   
+3.	Customers with <=400 credit score having a 100% churning rate, whereas customers with >400 credit score have an average churning rate is about 20%, this shows that above 400, a change in credit score does not cause any significant effect on churn rate.
+   
+4.	People in the <20-40 age group is having an average churn rate of 8.44% and the 41-80 age group is having average churn rate of 40.54%.
+   
+5.	Churn rate of 0 account balance customers is 13.8%, 100% for 1K-10K account balance customers and >25% for 10K-200K account balance customers.
+
+
 
 
 
