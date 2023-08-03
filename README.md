@@ -72,12 +72,12 @@ The dataset was cleaned and transformed using power query in PowerBI.
 
 **🎫 DATA VISUALIZATION USING PowerBI:**
 ---
-1.	Data Model:
+**1.	Data Model:**
    
    ![image](https://github.com/TaniyaSaxena8/Data-Analysis-of-Bank-Churn-Data/assets/135128191/e6778bca-8110-4c58-8b04-a9bccf95f4f9)
 
 
-2. Dashboard:
+**2. Dashboard:**
    
  ![image](https://github.com/TaniyaSaxena8/Data-Analysis-of-Bank-Churn-Data/assets/135128191/11c07e05-be4a-4b43-aff7-ade6ea7237fd)
 
