@@ -1,5 +1,5 @@
 # Bank-Customers-Churn-Data-Analysis
-**OBJECTIVE:**
+**📋 OBJECTIVE:**
 ---
 
 The project aims to help the bank understand customer churn behavior better and make data-driven decisions to improve customer retention, leading to increased customer satisfaction and long-term profitability.
@@ -28,17 +28,17 @@ Design informative and insightful dashboards and visualizations to communicate c
 
 
 
-**DATASET:**
+**💾 DATASET:**
 ---
 The dataset was taken from Kaggle. There are a total of 10,000 customer data from Germany, Spain, and France. 
 
 Dataset Link: 
 
-DatasetThe dataset was cleaned and transformed using power query in PowerBI.
+The dataset was cleaned and transformed using power query in PowerBI.
 
 
 
-**EXPLORATORY DATA ANALYSIS:**
+**📊 EXPLORATORY DATA ANALYSIS:**
 ---
 1.	Use Python and popular libraries like Pandas, NumPy, and Matplotlib/Seaborn to perform exploratory data analysis.
    
@@ -70,7 +70,7 @@ DatasetThe dataset was cleaned and transformed using power query in PowerBI.
    ![image](https://github.com/TaniyaSaxena8/Data-Analysis-of-Bank-Churn-Data/assets/135128191/b58e858c-dc95-4f91-8684-6fe44d665ca5)
 
 
-**DATA VISUALIZATION USING PowerBI:**
+**🎫 DATA VISUALIZATION USING PowerBI:**
 ---
 1.	Data Model:
    
@@ -82,7 +82,7 @@ DatasetThe dataset was cleaned and transformed using power query in PowerBI.
  ![image](https://github.com/TaniyaSaxena8/Data-Analysis-of-Bank-Churn-Data/assets/135128191/11c07e05-be4a-4b43-aff7-ade6ea7237fd)
 
 
-**KEY INSIGHTS:** 
+**💡 KEY INSIGHTS:** 
   ---
 1.	Out of 3 countries, Germany has the highest churn rate (32.4%).
    
