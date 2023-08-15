@@ -46,7 +46,7 @@ The dataset was cleaned and transformed using power query in PowerBI.
    
 3.	Generate descriptive statistics, such as mean, median, and standard deviation, for key features related to churn.
    
-4.	Create visualizations like histograms, box plots, and scatter plots to gain insights into different aspects of the data.
+4.	Create visualizations like histograms, bar plots to gain insights into different aspects of the data.
    
 5.	Values count of customers based on different features of the dataset:
 
